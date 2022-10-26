@@ -11,11 +11,11 @@ Current version is written to send it's data to Splunk via HTTP Event Collector.
 https://docs.splunk.com/Documentation/Splunk/9.0.1/Data/UsetheHTTPEventCollector
 
 ## Requirements
-A power meter with a P1/HAN port and the port enabled
-A Raspberry Pi 2,3 or 4 (might be possible to use a Zero as well, not tested)
-R11 or RJ12 contact that can be connected to the powermeter
-1 NPN transistor
-3 1k resistor
+- A power meter with a P1/HAN port and the port enabled
+- A Raspberry Pi 2,3 or 4 (might be possible to use a Zero as well, not tested)
+- R11 or RJ12 contact that can be connected to the powermeter
+- 1 NPN transistor
+- 3 1k resistor
 
 ## How to:
 1. Solder or wire the components according to this diagram.
